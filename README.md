@@ -32,7 +32,6 @@ Enter your own nightly price to see exactly where you stand:
 - Your price is **highlighted on the distribution chart** so you can visually see your position
 - Price is saved locally so you don't have to re-enter it each time
 
-![My Listing Comparison](screenshots/my-listing.png)
 
 ### Breakdown Views
 
